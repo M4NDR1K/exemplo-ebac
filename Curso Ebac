@@ -1,0 +1,37 @@
+algoritmo "acordar"
+inicio
+    // Passo 1: Acordar
+    escreva("Acordando... \n")
+    
+    // Passo 2: Verificar o horário (vamos supor que seja às 7h)
+    horario <- 7
+    escreva("O horário é 7h da manhã.\n")
+
+    // Passo 3: Espreguiçar
+    escreva("Espreguiçando... \n")
+
+    // Passo 4: Levantar da cama
+    escreva("Levantando da cama...\n")
+
+    // Passo 5: Ir ao banheiro
+    escreva("Indo ao banheiro...\n")
+
+    // Passo 6: Escovar os dentes
+    escreva("Escovando os dentes...\n")
+
+    // Passo 7: Tomar um banho
+    escreva("Tomando um banho...\n")
+
+    // Passo 8: Se vestir
+    escreva("Colocando a roupa...\n")
+
+    // Passo 9: Preparar o café da manhã
+    escreva("Preparando o café da manhã...\n")
+
+    // Passo 10: Tomar o café da manhã
+    escreva("Tomando o café da manhã...\n")
+
+    // Passo 11: Preparar-se para o dia
+    escreva("Pronto para começar o dia!\n")
+
+imalgoritmo
